@@ -11,7 +11,7 @@ Lista dos Projetos:
 
 ## Projeto 2
 
-- Link: [Projeto 2](Atividade2.html)
+- Link: [Projeto 2](https://github.com/gabrielviniciussc/Projetos-WEB-I-HTML/tree/main/Projeto%202)
 ##
 
 ## Projeto 3
