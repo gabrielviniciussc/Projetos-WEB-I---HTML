@@ -6,7 +6,7 @@ Lista dos Projetos:
 
 ## Atividade 1
   
-- Link: [Projeto 1](A.html)
+- Link: [Projeto 1](Projeto 1)
 ##
 
 ## Atividade 2
