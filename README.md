@@ -6,7 +6,7 @@ Lista dos Projetos:
 
 ## Atividade 1
   
-- Link: [Projeto 1](Projeto 1)
+- Link: [Projeto](https://github.com/gabrielviniciussc/Projetos-WEB-I-HTML/tree/main/Projeto%201))
 ##
 
 ## Atividade 2
