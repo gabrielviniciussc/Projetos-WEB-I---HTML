@@ -1,45 +1,25 @@
-# Projetos-WEB-I-HTML
-Repositório dos projetos (HTML) da disciplina de Web I
+# Repositório de Projetos - Desenvolvimento Web I (HTML)
 
+Bem-vindo(a) ao repositório dos projetos da disciplina **Desenvolvimento Web I**!
 
-Lista dos Projetos:
+Este repositório foi desenvolvido por:
 
-## Projeto 1
-  
-- Link: [Projeto 1](https://github.com/gabrielviniciussc/Projetos-WEB-I-HTML/tree/main/Projeto%201)
-##
-
-## Projeto 2
-
-- Link: [Projeto 2](https://github.com/gabrielviniciussc/Projetos-WEB-I-HTML/tree/main/Projeto%202)
-##
-
-## Projeto 3
-
-- Link: [Projeto 3](https://github.com/gabrielviniciussc/Projetos-WEB-I-HTML/tree/main/Projeto%203)
-##
-
-## Projeto 4
-
-- Link: [Projeto 4](https://github.com/gabrielviniciussc/Projetos-WEB-I-HTML/tree/main/Projeto%204)
-##
-# Repositório de Atividades - Desenvolvimento Web I (HTML)
-
-Bem-vindo(a) ao repositório das atividades da disciplina **Desenvolvimento Web I**!
+- **Gabriel Vinicius** - [GitHub](https://github.com/gabrielviniciussc)
+- **Thaylize Santos** - [GitHub](https://github.com/thaylizesant0s)
 
 ---
 
-## Projetos-WEB-I---HTML
+## Índice de Projetos
 
-| Projeto | Link |
-|-----------|------|
-| Projeto 1 | [_Visualizar_](https://github.com/gabrielviniciussc/Projetos-WEB-I---HTML/tree/main/Projeto%201) |
-| Projeto 2 | [_Visualizar_](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade2.html) |
-| Projeto 3 | [_Visualizar_](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade3.html) |
-| Projeto 4 | [_Visualizar_](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade4.html) |
-| Projeto 5 | [_Visualizar_](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade5.html) |
-| Projeto 6 | [_Visualizar_](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade6.html) |
-| Projeto 7 | [_Visualizar_](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade7.html) |
+| Número do Projeto | Nome do Projeto         | Link Visualizar                                                                 |
+|-------------------|-------------------------|---------------------------------------------------------------------------------|
+| **Projeto 1**     | Apresentação Pessoal     | [_Visualizar_](https://github.com/gabrielviniciussc/Projetos-WEB-I---HTML/tree/main/Projeto%201) |
+| **Projeto 2**     | Portfólio de Imagens     | [_Visualizar_](https://github.com/gabrielviniciussc/Projetos-WEB-I---HTML/tree/main/Projeto%202) |
+| **Projeto 3**     | Página de Receitas       | [_Visualizar_](https://github.com/gabrielviniciussc/Projetos-WEB-I---HTML/tree/main/Projeto%203) |
+| **Projeto 4**     | Site Pessoal             | [_Visualizar_](https://github.com/gabrielviniciussc/Projetos-WEB-I---HTML/tree/main/Projeto%204) |
+| **Projeto 5**     | Tabela de Notas          | [_Visualizar_](https://github.com/gabrielviniciussc/Projetos-WEB-I---HTML/tree/main/Projeto%205) |
+| **Projeto 6**     | Roteiro de Viagens       | [_Visualizar_](https://github.com/gabrielviniciussc/Projetos-WEB-I---HTML/tree/main/Projeto%206) |
+| **Projeto 7**     | Cadastro de Usuário      | [_Visualizar_](https://github.com/gabrielviniciussc/Projetos-WEB-I---HTML/tree/main/Projeto%207) |
 
 ---
 
