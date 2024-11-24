@@ -23,4 +23,4 @@ Este repositório foi desenvolvido por:
 
 ---
 
-Obrigado(a) por visitar o repositório!
+Obrigado por visitar o repositório!
